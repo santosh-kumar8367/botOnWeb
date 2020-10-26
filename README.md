@@ -16,3 +16,8 @@
     --> category of shopping includes clothing(Mens wear,Kids wear),Kids toys,electronic gadgets,Furniture,Groceries <br/>
     --> Finally this bot helps user to buy desired product quickly in short period of time<br/>
 2.This bot also performs calculations ,so that user can use it for budget estimantions :)***
+
+# Chatbot Phases
+![alt text](https://github.com/santosh-kumar8367/botOnWeb/blob/main/chatbotphase.jpeg?raw=true)
+
+# youtube link
