@@ -29,6 +29,7 @@ https://DismalWildDistributeddatabase.ramyasri29.repl.co
 
 # Resources links
 ###### Groceries --->https://dir.indiamart.com/impcat/fresh-fruits.html
+###### Others:-
 ###### https://developer.mozilla.org/en-US/docs/Web/API/Node/childNodes
 ###### https://www.w3schools.com/jsref/event_onkeyup.asp
 ###### https://www.w3schools.com/css/css_overflow.asp
