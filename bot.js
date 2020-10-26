@@ -1,3 +1,5 @@
+
+//variables
 var chtmsgs=document.getElementById("bot-cht-cont");
 var botmsgs=document.getElementById("bot-cht");
 var usermsgs=document.getElementById("user-chat");
@@ -33,7 +35,7 @@ function  nextup(intake){
     }
 }
 
-//This function performs tasks
+//This function opens required webpage froom bot
 function calcexp(inpk){
     inpk.toLowerCase();
     try{ // if no exception raises
@@ -78,3 +80,5 @@ function calcexp(inpk){
         return "This is not possible , i will upgrade soon.. :)"
     }
 }
+
+//ends
