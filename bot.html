@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lan="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+        <link href="bot.css" rel="stylesheet" type="text/css">
+        <title>Bot</title>
+        
+    </head>
+    <body>
+        <header>
+            <div id="chat-box">
+                <div id="chat-container">
+                    <div class="top">
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRphhBcYf_KU0VpTaFnbsh8ocfpg0OoPCnWYw&usqp=CAU" alt="bot" >Chat Bot</div>
+                    <div id="bot-cht-cont">
+                        <div id="bot-cht">
+                            <div class="bot-msg">
+                                Hi! Glad to meet you..<br>
+                                1.I can evaluate an expression<br>
+                                2.I can take you to required shopping webpage
+                            </div>
+                        </div>
+                    </div>
+                    <div class="once">
+                        <div id ="bot-cht" class="bot-cht" >
+                            <div class="bot-msg">
+                                Hi! Glad to meet you..
+                            </div>
+                        </div>
+                        <div id="user-chat" class="user-chat">
+                            <div class="user-msg">Reply from user</div>
+                        </div>
+                    </div>
+                    <input id="take" placeholder="Type message and press enter  to send" onkeyup="userin(event)">
+                </div>
+                <script src="bot.js"></script>
+            </div>
+            
+        </header>
+    </body>
+</html>
