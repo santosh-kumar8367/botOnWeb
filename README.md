@@ -9,7 +9,7 @@
 3.**Reg No:19pa1a05c9 -Padavala Satya Santosh Kumar***<br />
 
 # About bot
-**Our Baby bot updated this week it can help you out in shopping
+**Our Baby bot updated this week it can help you out in shopping**
 # What this bot can do?
 ***1.This bot can take you to online shopping store based on what user whats to shop.<br/>
     --> This bot saves the time of the user by directly taking to required shopping category <br/>
@@ -17,7 +17,7 @@
     --> Finally this bot helps user to buy desired product quickly in short period of time<br/>
 2.This bot also performs calculations ,so that user can use it for budget estimantions :)***
 
-# Chatbot Phases
+# Chatbot design
 ![alt text](https://github.com/santosh-kumar8367/botOnWeb/blob/main/chatbotphase.jpeg?raw=true)
 
 # youtube link
@@ -25,3 +25,4 @@ https://youtu.be/WhwH9pfr5T8
 
 
 # repl link
+https://DismalWildDistributeddatabase.ramyasri29.repl.co
