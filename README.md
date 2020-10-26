@@ -34,3 +34,5 @@ https://DismalWildDistributeddatabase.ramyasri29.repl.co
 ###### https://www.w3schools.com/jsref/event_onkeyup.asp
 ###### https://www.w3schools.com/css/css_overflow.asp
 ###### https://www.w3schools.com/jsref/jsref_obj_regexp.asp
+###### https://www.w3schools.com/jsref/prop_html_innerhtml.asp
+###### https://www.w3schools.com/jsref/prop_html_outerhtml.asp
