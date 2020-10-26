@@ -20,11 +20,11 @@
 # Chatbot design
 ![alt text](https://github.com/santosh-kumar8367/botOnWeb/blob/main/chatbotphase.jpeg?raw=true)
 
-# youtube link
+# Youtube link
 https://youtu.be/vHWlE3i90m8
 
 
-# repl link
+# Repl link
 https://DismalWildDistributeddatabase.ramyasri29.repl.co
 
 # Resources links
