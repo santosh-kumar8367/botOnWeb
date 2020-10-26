@@ -1,3 +1,4 @@
+/* styling for bot starts*/
 *{
     margin: 0;
       box-sizing: border-box;
@@ -82,3 +83,5 @@
   .once{
       display: none;
   }
+
+/* styling for bot ends*/
